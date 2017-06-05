@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>chapter01</label>
+		<id>40</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>chapter01.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>chapter01.jcp</path>
+		</project>
+	</projects>
+</workspace>
